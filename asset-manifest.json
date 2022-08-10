@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MyCoolPortfolio/static/css/main.38e29448.css",
+    "main.js": "/MyCoolPortfolio/static/js/main.dd111cad.js",
+    "static/media/cv.pdf": "/MyCoolPortfolio/static/media/cv.d373829593114398ea2f.pdf",
+    "static/media/john.jpg": "/MyCoolPortfolio/static/media/john.dcdec79e91405c9bd4d5.jpg",
+    "static/media/imge4.webp": "/MyCoolPortfolio/static/media/imge4.0f3f29fef77e0ef25ccb.webp",
+    "static/media/imge2.webp": "/MyCoolPortfolio/static/media/imge2.a138290f1cdcfbc518d8.webp",
+    "static/media/imge1.webp": "/MyCoolPortfolio/static/media/imge1.cc184a713ee1f4feba9d.webp",
+    "static/media/me.png": "/MyCoolPortfolio/static/media/me.a9bd42ef63543b924cc5.png",
+    "static/media/Margret.jpg": "/MyCoolPortfolio/static/media/Margret.d283717d1132713e64bb.jpg",
+    "static/media/imge3.webp": "/MyCoolPortfolio/static/media/imge3.8061680239cf323248f7.webp",
+    "static/media/Mary.jpg": "/MyCoolPortfolio/static/media/Mary.da10baf5a79791ccc0fe.jpg",
+    "index.html": "/MyCoolPortfolio/index.html",
+    "main.38e29448.css.map": "/MyCoolPortfolio/static/css/main.38e29448.css.map",
+    "main.dd111cad.js.map": "/MyCoolPortfolio/static/js/main.dd111cad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38e29448.css",
+    "static/js/main.dd111cad.js"
+  ]
+}
